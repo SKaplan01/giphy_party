@@ -1,0 +1,22 @@
+{
+  "name": "giphy-party",
+  "version": "1.0.0",
+  "description": "",
+  "main": "giphy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SKaplan01/giphy_party.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SKaplan01/giphy_party/issues"
+  },
+  "homepage": "https://github.com/SKaplan01/giphy_party#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
